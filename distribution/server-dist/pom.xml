@@ -98,7 +98,7 @@
                             <log-time>${galleon.log.time}</log-time>
                             <offline>${galleon.offline}</offline>
                             <plugin-options>
-                                <jboss-fork-embedded>true</jboss-fork-embedded>
+                                <jboss-fork-embedded>${galleon.fork.embedded}</jboss-fork-embedded>
                             </plugin-options>
                             <feature-packs>
                                 <feature-pack>
