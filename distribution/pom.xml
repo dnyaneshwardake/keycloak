@@ -42,7 +42,7 @@
         <module>galleon-feature-packs</module>
         <module>licenses-common</module>
         <module>maven-plugins</module>
-        <module>server-dist</module>
+        <!--<module>server-dist</module>-->
         <!--<module>server-overlay</module>-->
     </modules>
 
